@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-wpm5ss/static/css/main.c76de836.css",
+    "main.js": "/react-wpm5ss/static/js/main.b817ed48.js",
+    "index.html": "/react-wpm5ss/index.html",
+    "main.c76de836.css.map": "/react-wpm5ss/static/css/main.c76de836.css.map",
+    "main.b817ed48.js.map": "/react-wpm5ss/static/js/main.b817ed48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76de836.css",
+    "static/js/main.b817ed48.js"
+  ]
+}
